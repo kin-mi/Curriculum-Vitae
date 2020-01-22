@@ -64,6 +64,7 @@
 - VSCode, NetBeans, Eclipse
 - Confluence, JIRA
 - 基本的なLinuxコマンド
+- Ofice全般, Teams, Slack
 
 ## 言語
 
