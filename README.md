@@ -17,13 +17,15 @@
 ## 趣味
 - 個人開発
   - 以下のようなものを作ってます
-  - [Twitter連動型 大喜利サイト「ついぎり」](https://twigiri.app/)
-  - [悟空語ジェネレーター](https://goku-lang.netlify.com/)
-  - [Barcode The Gathering](https://barcode-the-gathering.appspot.com)
+    - [Twitter連動型 大喜利サイト「ついぎり」](https://twigiri.app/)
+    - [悟空語ジェネレーター](https://goku-lang.netlify.com/)
+    - [Barcode The Gathering](https://barcode-the-gathering.appspot.com)
 - DIY
-  - Twitterのカバー画像にあるPCデスク等を作ってます
+  - Twitterのカバー画像にあるPCデスクとか作ってます
 - 登山
   - 好きな山は九重山です
+- 酒
+  - 芋焼酎派です
 ## スキル
 ### 言語/フレームワーク
 
@@ -116,7 +118,13 @@
 - 雇用形態：正社員
 
 ## その他
-
+### アウトプット実績
+- [Nuxt.js＋Firebase＋GAEで作った個人サービスが半月で2万PV超えたので実績値を全て公開する](https://qiita.com/kinmi/items/ce39b52ff712098431c4)
+  - Qiita週間トレンド2位獲得
+  - はてなブックマーク ホットエントリー入り
+  - Progate公式Twitterアカウント[推奨記事](https://twitter.com/progateJP/status/1180411824317124608)
+- [私の経歴書](https://note.com/kinmi/n/neafe1fb59f38)
+  - 「一週間で最もスキを集めた記事のひとつ」獲得
 ### 受賞歴
 - [電子情報通信学会 成績優秀賞受賞](https://www.ieice.org/kyushu/gakusei/h21/h21_hyo.html)
   - 大学の卒業研究で受賞しました
