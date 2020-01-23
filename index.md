@@ -130,7 +130,7 @@
 
 ### アウトプット実績
 - [Nuxt.js＋Firebase＋GAEで作った個人サービスが半月で2万PV超えたので実績値を全て公開する](https://qiita.com/kinmi/items/ce39b52ff712098431c4)
-  - Qiita週間トレンド2位獲得
+  - Qiitaデイリートレンド2位獲得
   - はてなブックマーク ホットエントリー入り
   - Progate公式Twitterアカウント[推奨記事](https://twitter.com/progateJP/status/1180411824317124608)
 - [私の経歴書](https://note.com/kinmi/n/neafe1fb59f38)
