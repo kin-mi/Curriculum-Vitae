@@ -93,7 +93,7 @@
 | 福岡<br>客先常駐 |          法人専用サイト構築         |  メンバー  | Java<br>Oracle, Postgres | 要件定義 ~ リリース |
 
 ### 2015/01 : 株式会社アウトソーシングテクノロジー 入社
-- 企業HP：https://www.ostechnology.co.jp/
+- 企業HP：[https://www.ostechnology.co.jp/](https://www.ostechnology.co.jp/)
 - 雇用形態：正社員
 
 ### 2014/12 : 株式会社エスケーアイ 退職
@@ -123,7 +123,7 @@
 | 東京<br>客先常駐 |          社内進捗管理システム保守         |  メンバー  | Java<br>MySQL<br>VBA | 設計 ~ リリース<br>運用保守 |
 
 ### 2010/04 : 株式会社エス・ケー・アイ 入社
-- 企業HP：http://www.ns-skig.co.jp/
+- 企業HP：[http://www.ns-skig.co.jp/](http://www.ns-skig.co.jp/)
 - 雇用形態：正社員
 
 ## その他
