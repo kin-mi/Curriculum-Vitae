@@ -5,10 +5,8 @@
 | key       | value                                 |
 |-----------|---------------------------------------|
 | Name      | 村上 幸裕 (Murakami Yukihiro)         |
-| Birth     | 1987/09/08                            |
-| Family    | 既婚・子なし                          |
 | Location  | 福岡                                  |
-| Education | 久留米工業大学 情報ネットワーク工学科 |
+| Education | 工業大学 工学科卒業 |
 | Mail      | [kinmi.the.developer@gmail.com](mailto:kinmi.the.developer@gmail.com) |
 | Twitter   | [@_kinmi](https://twitter.com/_kinmi) |
 | Qiita     | [@kinmi](https://qiita.com/kinmi) |
