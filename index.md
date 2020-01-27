@@ -6,7 +6,7 @@
 |-----------|---------------------------------------|
 | Name      | 村上 幸裕 (Murakami Yukihiro)         |
 | Location  | 福岡                                  |
-| Education | 工業大学 工学科卒業 |
+| Education | 某大学 工学科卒業 |
 | Mail      | [kinmi.the.developer@gmail.com](mailto:kinmi.the.developer@gmail.com) |
 | Twitter   | [@_kinmi](https://twitter.com/_kinmi) |
 | Qiita     | [@kinmi](https://qiita.com/kinmi) |
