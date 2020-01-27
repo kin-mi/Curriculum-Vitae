@@ -16,8 +16,11 @@
 - 個人開発
   - 以下のようなものを作ってます
     - [Twitter連動型 大喜利サイト「ついぎり」](https://twigiri.app/)
+      - Nuxt.js, GAE, Firebase(Firestore, Functions), Twitter API
     - [悟空語ジェネレーター](https://goku-lang.netlify.com/)
+      - Vue.js, Netlify, Kuromoji.js
     - [Barcode The Gathering](https://barcode-the-gathering.appspot.com)
+      - Nuxt.js, GAE, Magic: The Gathering API
 - DIY
   - Twitterのカバー画像にあるPCデスクとか作ってます
 - 登山
